@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Stromoth/Stromoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Sobre mim
+- Sou um jovem estudante de programação, estou aprendendo Python como minha primeira linguagem, Python.
+
+### Objetivos
+- Pretendo cursar Engenharia de Software na UEPG e quero me tornar um desenvolvedor Back-End.
