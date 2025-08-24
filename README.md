@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Sobre mim
-- Sou um jovem estudante de programação, estou aprendendo Python como minha primeira linguagem, Python.
+## Sobre mim
+Sou um jovem estudante de programação, estou aprendendo Python como minha primeira linguagem.
 
-### Objetivos
-- Pretendo cursar Engenharia de Software na UEPG e quero me tornar um desenvolvedor Back-End.
+## Objetivos
+- Cursar Engenharia de Software.
+- Conseguir meu primeiro trabalho com programação.
