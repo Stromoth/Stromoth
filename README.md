@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Sobre mim
-Sou um jovem estudante de programação, estou aprendendo Python como minha primeira linguagem.
+Meu nome é Gabriel Paulo Costa e pretendo me tornar um desenvolvedor back-end. 
 
-## Objetivos
-- Cursar Engenharia de Software.
-- Conseguir meu primeiro trabalho com programação.
+## Estudando
+- Python
+- Godot
+- Redes
