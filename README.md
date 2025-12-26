@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 Meu nome é Gabriel Paulo Costa e pretendo me tornar um desenvolvedor back-end. 
 
 ## Estudando
-- Python
-- Godot
-- Redes
+- JavaScript para Back-End
