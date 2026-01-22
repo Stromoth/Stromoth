@@ -13,7 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Sobre mim
-Meu nome é Gabriel Paulo Costa e pretendo me tornar um desenvolvedor back-end. 
+- Meu nome é Gabriel Paulo Costa, tenho 17 anos e pretendo me tornar um desenvolvedor back-end um dia;
+- 3º ano no ensino médio técnico em Análise e Desenvolvimento de Sistemas;
+
+## Linguagens e ferramentas
+- Python;
+- JavaScript;
+- HTML;
+- CSS;
 
 ## Estudando
-- JavaScript para Back-End
+- JavaScript para Back-End;
+- Linux;
