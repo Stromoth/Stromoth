@@ -12,19 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="background-color: blue; padding: 15px; border-radius: 15px">
-  ## Sobre mim
-  - Meu nome é Gabriel Paulo Costa, tenho 17 anos e pretendo me tornar um desenvolvedor back-end um dia;
-  - 3º ano no ensino médio técnico em Análise e Desenvolvimento de Sistemas;
-  
-  ## Linguagens e ferramentas
-  - Python;
-  - JavaScript;
-  - HTML;
-  - CSS;
-  
-  ## Estudando
-  - JavaScript para Back-End;
-  - Linux;
-</div>
-   
+## Sobre mim
+- Meu nome é Gabriel Paulo Costa, tenho 17 anos e pretendo me tornar um desenvolvedor back-end um dia;
+- 3º ano no ensino médio técnico em Análise e Desenvolvimento de Sistemas;
+
+## Linguagens e ferramentas
+- Python;
+- JavaScript;
+- HTML;
+- CSS;
+
+## Estudando
+- JavaScript para Back-End;
+- Linux;   
