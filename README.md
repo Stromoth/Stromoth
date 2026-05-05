@@ -35,16 +35,6 @@ Olá! Me chamo **Gabriel Paulo Costa**, tenho **17 anos** e atualmente curso o *
 
 </div>
 
----
-
-## 🎯 Objetivo
-
-Busco melhorar minhas habilidades como programador praticando com projetos cada vez maiores e técnicos para futuramente atuar como um desenvolvedor back-end.
-
----
-
-## 💻 Terminal.log
-
 ```bash
 > user: Gabriel Paulo Costa
 > focus: Back-End Development
