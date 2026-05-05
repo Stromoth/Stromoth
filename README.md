@@ -15,13 +15,16 @@
 
 ---
 
-## 👨‍💻 Sobre mim
-
-Olá! Me chamo **Gabriel Paulo Costa**, tenho **17 anos** e atualmente curso o **3º ano do Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas**.
+```bash
+> user: Gabriel Paulo Costa
+> age: 17
+> focus: Back-End Development
+> os: Debian Linux
+```
 
 ---
 
-## 🚀 Buscando aprender sobre
+## 🚀 Aprendendo
 
 <div align="left">
 
@@ -34,9 +37,3 @@ Olá! Me chamo **Gabriel Paulo Costa**, tenho **17 anos** e atualmente curso o *
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=911323)
 
 </div>
-
-```bash
-> user: Gabriel Paulo Costa
-> focus: Back-End Development
-> os: Debian Linux
-> status: learning, building, improving...
