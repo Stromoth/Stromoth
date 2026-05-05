@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="assets/mitsuru-banner.png" width="100%" />
+  <img src="assets/mitsuru-banner.jpg" width="100%" />
 </div>
 
 <div align="center">
