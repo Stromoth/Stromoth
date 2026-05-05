@@ -28,10 +28,7 @@
 
 <div align="left">
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=911323)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=911323)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=911323)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=911323)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=911323)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=911323)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=911323)
