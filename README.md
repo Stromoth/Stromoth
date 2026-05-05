@@ -1,4 +1,11 @@
+
 <div align="center">
+  <img src="assets/mitsuru-banner.png" width="100%" />
+</div>
+
+<div align="center">
+
+<br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=911323&center=true&vCenter=true&width=700&lines=Gabriel+Paulo+Costa;Desenvolvedor+em+forma%C3%A7%C3%A3o;Back-End+Enthusiast+%7C+Linux+User" />
 
