@@ -7,13 +7,11 @@
 
 Olá! Me chamo **Gabriel Paulo Costa**, tenho **17 anos** e atualmente curso o **3º ano do Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas**.
 
-Sou apaixonado por tecnologia e estou em constante evolução na área de desenvolvimento, com foco em construir uma base sólida para atuar futuramente como **Desenvolvedor Back-End**.
-
-Tenho grande interesse em programação, sistemas Linux, banco de dados e desenvolvimento de aplicações que unam organização, desempenho e praticidade.
+Estou em constante evolução na área de desenvolvimento, com foco em construir uma base sólida para atuar futuramente como **Desenvolvedor Back-End**.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Buscando aprender sobre
 
 <div align="left">
 
@@ -29,37 +27,8 @@ Tenho grande interesse em programação, sistemas Linux, banco de dados e desenv
 
 ---
 
-## 📚 Atualmente estudando
-
-- Desenvolvimento Back-End com JavaScript
-- Estruturação e consumo de APIs
-- Banco de Dados Relacionais
-- Ambiente Linux e terminal
-- Versionamento com Git e GitHub
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Stromoth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stromoth&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-</div>
-
----
-
 ## 🎯 Objetivo
 
-Busco evoluir continuamente minhas habilidades como desenvolvedor, adquirir experiência prática em projetos cada vez mais robustos e me especializar no ecossistema Back-End.
-
-Estou sempre aberto a aprender novas tecnologias e aprimorar minha lógica, organização de código e conhecimento em infraestrutura.
-
----
-
-## 📫 Contato
-
-Caso queira entrar em contato:
-
-- GitHub: **@Stromoth**
+Busco melhorar minhas habilidades como programador praticando com projetos cada vez maiores e técnicos.
 
 ---
