@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Aprendendo
+## 🌹 Aprendendo
 
 <div align="left">
 
